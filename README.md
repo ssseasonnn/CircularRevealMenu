@@ -6,3 +6,4 @@
 
 
 ### 实现的效果图
+![Mvp Image](https://github.com/ssseasonnn/CircularRevealMenu/raw/master/GIF.gif)

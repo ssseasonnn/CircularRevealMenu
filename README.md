@@ -9,6 +9,6 @@
 ![Mvp Image](https://github.com/ssseasonnn/CircularRevealMenu/raw/master/GIF.gif)
 
 <figure class="third">
-    <img width="100" src="https://github.com/ssseasonnn/RxDownload/blob/master/demo.gif?raw=true">
-    <img width="100" src="https://github.com/ssseasonnn/CircularRevealMenu/raw/master/CircularRevealMenu.gif">
+    <img width="300" src="https://github.com/ssseasonnn/RxDownload/blob/master/demo.gif?raw=true">
+    <img width="300" src="https://github.com/ssseasonnn/CircularRevealMenu/raw/master/CircularRevealMenu.gif">
 </figure>

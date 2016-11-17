@@ -7,3 +7,8 @@
 
 ### 实现的效果图
 ![Mvp Image](https://github.com/ssseasonnn/CircularRevealMenu/raw/master/GIF.gif)
+
+<figure class="third">
+    <img src="https://github.com/ssseasonnn/RxDownload/blob/master/demo.gif?raw=true">
+    <img src="https://github.com/ssseasonnn/CircularRevealMenu/raw/master/CircularRevealMenu.gif">
+</figure>
